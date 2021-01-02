@@ -3,11 +3,11 @@
 ## [Hackathon submission for HackRPI 2020](https://devpost.com/software/mask-mandator?ref_content=user-portfolio&ref_feature=in_progress)
 
 Awards won:
+- COVID-19 Fund Recipient by Google Cloud
 - 2nd Place FCA AI Best Hack
 - Google Cloud COVID-19 Response Hack Finalists 
 - Google Cloud COVID-19 1st Place
 - Top 15 Teams By Wolfram
-- Covid-19 Fund Recipient by Google Cloud
 
 
 ## Inspiration
